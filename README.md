@@ -1,5 +1,9 @@
 # AJA Bragi
 
+<p align="center">
+  <img src="assets/bragi-signet.svg" alt="Bragi signet" width="180" height="180">
+</p>
+
 **HiVEGrid / Local TTS Engine**
 
 **Local AI Text-to-Speech for macOS. Custom Voices. Privacy by Design.**
